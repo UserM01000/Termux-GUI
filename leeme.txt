@@ -1,0 +1,43 @@
+Hola que hay soy M01000 y te dare unas
+instrucciones por si acaso no sabes
+igual recuerda que si tienes problemas
+o dudas puedes contactarme :D
+
+y bien para poner en marcha tu conexion
+vnc pon esto:
+
+-----------------------------
+vncserver
+-----------------------------
+
+y para cortar la señal pon esto:
+
+-----------------------------
+vncserver -kill :1
+-----------------------------
+
+listo :D
+
+Si quieres que el Desktop quede
+al mismo Display que tu celular pues haz
+esto:
+
+1. Haz una captura de pantalla de
+forma vertical
+
+2. ahora ve a tu galeria y busca la foto
+
+3. busca la opcion de "detalles" de la
+captura de pantalla
+
+4. revisa donde se vean unos numero
+tipo asi --> 1480x720
+
+5. Anota esos numeros y entra a termux y
+pones los siguiente
+                                                                                                     -----------------------------
+vncserver -geometry NUMEROxNUMERO
+-----------------------------
+
+y listo ya tienes tu desktop a la misma
+medida de tu display de celular :D
