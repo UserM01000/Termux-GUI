@@ -15,8 +15,6 @@ pkg install -y x11-repo
 apt update
 pkg install -y xfce4* xfce4-goodies galculator otter-browser thunar leafpad
 pkg install -y tigervnc
-tar -xf vnc.tar.xz
-rm vnc.tar.xz
 
 clear
 echo -e "\e[1;37m"
