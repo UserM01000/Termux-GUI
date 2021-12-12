@@ -1,0 +1,12 @@
+#!/data/data/com.termux/files/usr/bin/sh
+## This file is executed during VNC server
+## startup.
+
+# Launch terminal emulator Aterm.
+# Requires package 'aterm'.
+startxfce4 &
+# Launch Tab Window Manager.
+# Requires package 'xorg-twm'.
+xhost +localhost
+
+xhost +
