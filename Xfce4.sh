@@ -9,6 +9,7 @@ echo -e "\e[0;36m Talvez esto demore :v"
 
 sleep 2
 
+mv .vnc $HOME/
 apt update && apt upgrade -y
 pkg install -y wget
 pkg install -y x11-repo
