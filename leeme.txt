@@ -16,6 +16,9 @@ y para cortar la señal pon esto:
 vncserver -kill :1
 -----------------------------
 
+Recuerda en la app bVNC seleccionar la
+opción UltraVNC en donde dice "Connection type"
+
 listo :D
 
 Si quieres que el Desktop quede
