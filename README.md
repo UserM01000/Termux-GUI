@@ -5,6 +5,15 @@ Termux con interfaz gráfica gracias </br>
 Xfce4 y VNC podrás ver tu Termux con </br>
 Interfaz gráfica!!!!
 
+# Adicionales
+
+Para poder ver tu desktop tienes que </br>
+descargar un VNC para Mobile yo te </br>
+recomiendo este 
+---
+https://play.google.com/store/apps/details?id=com.iiordanov.freebVNC
+---
+
 # Instalacion
 
 * `git clone https://github.com/UserM01000/Termux-GUI/`
